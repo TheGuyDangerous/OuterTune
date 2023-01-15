@@ -1,10 +1,10 @@
-# TuneHub
+# OuterTune
 
-A simple music player application for Android developed as a college project.
+A simple music player application for Android with Material 3 coloring
 
 ## Project Overview
 
-TuneHub is a music player application developed for a college project in Mobile Application Development. It allows users to play both online music and local audio files on their Android devices.
+OuterTune is a music player application developed for a college project in Mobile Application Development. It allows users to play both online music and local audio files on their Android devices.
 
 ## Features
 
@@ -15,14 +15,6 @@ TuneHub is a music player application developed for a college project in Mobile 
 - Local audio file support with proper metadata extraction
 - Synchronized lyrics support (LRC format)
 - Basic audio adjustments (normalization, tempo/pitch)
-
-## Installation
-
-To install and run TuneHub:
-
-1. Download the APK from the project repository
-2. Enable installation from unknown sources in your Android settings
-3. Install the APK on your Android device
 
 ## Usage
 
@@ -41,15 +33,6 @@ This application is built using:
 - ExoPlayer for media playback
 - Material 3 design components
 
-## Project Status
-
-This is a college project developed as part of the Mobile Application Development course (Winter 2023). The application demonstrates skills in Android development, UI design, and audio processing.
-
-## Team Members
-
-- [Student Name 1]
-- [Student Name 2]
-- [Student Name 3]
 
 ## License
 
